@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"방","order":2,"parentId":2,"scrollX":728,"scrollY":409.77777777777777},
+{"id":2,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":3,"expanded":false,"name":"산 마을","order":7,"parentId":7,"scrollX":1232,"scrollY":1709.3333333333333},
+{"id":4,"expanded":false,"name":"MAP004","order":5,"parentId":6,"scrollX":728,"scrollY":409.77777777777777},
+{"id":5,"expanded":true,"name":"성","order":3,"parentId":1,"scrollX":1112,"scrollY":1244.4444444444443},
+{"id":6,"expanded":true,"name":"성 3층","order":4,"parentId":5,"scrollX":720.8888888888889,"scrollY":568},
+{"id":7,"expanded":false,"name":"왕국 감옥","order":6,"parentId":4,"scrollX":728,"scrollY":409.77777777777777}
+]
